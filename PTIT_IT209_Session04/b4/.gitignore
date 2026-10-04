@@ -1,0 +1,13 @@
+# Bo qua file nhay cam (Bai 4)
+credentials.txt
+
+# File moi truong / bao mat
+.env
+*.pem
+*.key
+
+# File rac he thong
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

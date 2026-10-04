@@ -1,0 +1,10 @@
+* 1d0503a Add .gitignore to ignore sensitive files
+*   58a80d8 Merge branch 'feature-update' into main - resolve conflict in README.md
+|\
+| * 4fcfe35 Update README on feature-update branch
+* | 862ed1c Update README on main branch
+|/
+* f9c8de8 up
+* 67cfe80 Add buggy code
+* f396621 Add version 2
+* 990a956 Initial commit
